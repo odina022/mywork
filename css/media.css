@@ -1,0 +1,5 @@
+@media (max-width: 576px) {
+    .about__image-img {
+       width: 100% !important;
+    }
+}
